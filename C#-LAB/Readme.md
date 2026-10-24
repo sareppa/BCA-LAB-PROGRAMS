@@ -6,4 +6,3 @@ This folder contains my lab programs.
 - Program 2
 - Program 3
 
-Language: Add your programming language here.
